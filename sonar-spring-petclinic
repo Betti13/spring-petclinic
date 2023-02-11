@@ -1,0 +1,3 @@
+sonar.organization=betti13
+sonar.projectKey=betti13_spring-petclinic
+sonar.sources=.
